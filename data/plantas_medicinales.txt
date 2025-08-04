@@ -1,0 +1,84 @@
+{
+  "manzanilla": {
+    "name": "Manzanilla (Chamomile)",
+    "scientific_name": "Matricaria chamomilla",
+    "uses": [
+      "Digestive problems",
+      "Anxiety",
+      "Sleep disorders",
+      "Skin irritation"
+    ],
+    "preparation": "Tea: 1 tsp dried flowers per cup of hot water, steep 5-10 minutes",
+    "contraindications": [
+      "Pregnancy (large amounts)",
+      "Allergy to asteraceae family"
+    ],
+    "region": "Available throughout South America"
+  },
+  "eucalipto": {
+    "name": "Eucalipto (Eucalyptus)",
+    "scientific_name": "Eucalyptus globulus",
+    "uses": [
+      "Respiratory problems",
+      "Cough",
+      "Congestion",
+      "Wound healing"
+    ],
+    "preparation": "Inhalation: 5-10 drops oil in hot water. Tea: 2-3 leaves per cup",
+    "contraindications": [
+      "Not for children under 2",
+      "Not for internal use in pregnancy"
+    ],
+    "region": "Common in Andean regions"
+  },
+  "hierba_buena": {
+    "name": "Hierbabuena (Spearmint)",
+    "scientific_name": "Mentha spicata",
+    "uses": [
+      "Digestive issues",
+      "Nausea",
+      "Headaches",
+      "Common cold"
+    ],
+    "preparation": "Tea: 1 tbsp fresh leaves or 1 tsp dried per cup, steep 5 minutes",
+    "contraindications": [
+      "GERD (may worsen symptoms)",
+      "Hiatal hernia"
+    ],
+    "region": "Grows well in most South American climates"
+  },
+  "aloe_vera": {
+    "name": "Sábila (Aloe Vera)",
+    "scientific_name": "Aloe barbadensis",
+    "uses": [
+      "Burns",
+      "Skin wounds",
+      "Constipation",
+      "Digestive inflammation"
+    ],
+    "preparation": "Topical: Apply gel directly. Internal: 1-2 tbsp gel (pure) in water",
+    "contraindications": [
+      "Pregnancy",
+      "Breastfeeding",
+      "Intestinal obstruction"
+    ],
+    "region": "Thrives in dry climates across South America"
+  },
+  "cola_de_caballo": {
+    "name": "Cola de Caballo (Horsetail)",
+    "scientific_name": "Equisetum arvense",
+    "uses": [
+      "Kidney problems",
+      "Urinary tract infections",
+      "Wound healing",
+      "Bone health"
+    ],
+    "preparation": "Tea: 2-3 tsp dried herb per cup, boil 5 minutes, steep 10 minutes",
+    "contraindications": [
+      "Pregnancy",
+      "Heart/kidney disease",
+      "Low potassium"
+    ],
+    "region": "Found in moist areas throughout South America"
+  }
+}

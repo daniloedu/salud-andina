@@ -1,0 +1,57 @@
+{
+  "paracetamol": {
+    "name": "Paracetamol (Acetaminofén)",
+    "uses": [
+      "Fever",
+      "Mild to moderate pain",
+      "Headache"
+    ],
+    "dosage": "Adults: 500-1000mg every 4-6 hours (max 4g/day)",
+    "contraindications": [
+      "Severe liver disease",
+      "Alcohol abuse"
+    ],
+    "side_effects": [
+      "Rare: liver damage with overdose"
+    ],
+    "availability": "Widely available"
+  },
+  "ibuprofeno": {
+    "name": "Ibuprofeno",
+    "uses": [
+      "Pain",
+      "Inflammation",
+      "Fever"
+    ],
+    "dosage": "Adults: 200-400mg every 4-6 hours (max 1200mg/day)",
+    "contraindications": [
+      "Stomach ulcers",
+      "Kidney disease",
+      "Heart disease"
+    ],
+    "side_effects": [
+      "Stomach irritation",
+      "Nausea",
+      "Dizziness"
+    ],
+    "availability": "Common in pharmacies"
+  },
+  "omeprazol": {
+    "name": "Omeprazol",
+    "uses": [
+      "Stomach acid reduction",
+      "Gastritis",
+      "GERD"
+    ],
+    "dosage": "Adults: 20mg once daily before meals",
+    "contraindications": [
+      "Known allergy to proton pump inhibitors"
+    ],
+    "side_effects": [
+      "Headache",
+      "Nausea",
+      "Diarrhea"
+    ],
+    "availability": "Prescription or OTC"
+  }
+}

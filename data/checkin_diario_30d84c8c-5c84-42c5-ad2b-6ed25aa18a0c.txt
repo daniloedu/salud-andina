@@ -1,0 +1,38 @@
+[
+  {
+    "water_intake": 10,
+    "exercise_minutes": 39,
+    "wellness_score": 6,
+    "sleep_quality": "Bien",
+    "daily_notes": "",
+    "timestamp": "2025-07-29T16:08:31.815706",
+    "date": "2025-07-29"
+  },
+  {
+    "water_intake": 10,
+    "exercise_minutes": 39,
+    "wellness_score": 6,
+    "sleep_quality": "Bien",
+    "daily_notes": "",
+    "timestamp": "2025-07-29T16:09:35.407842",
+    "date": "2025-07-29"
+  },
+  {
+    "water_intake": 2,
+    "exercise_minutes": 45,
+    "wellness_score": 3,
+    "sleep_quality": "Mal",
+    "daily_notes": "",
+    "timestamp": "2025-07-30T16:12:58.993548",
+    "date": "2025-07-30"
+  },
+  {
+    "water_intake": 10,
+    "exercise_minutes": 60,
+    "wellness_score": 4,
+    "sleep_quality": "Mal",
+    "daily_notes": "",
+    "timestamp": "2025-08-01T19:01:09.234201",
+    "date": "2025-08-01"
+  }
+]

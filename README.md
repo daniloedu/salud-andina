@@ -152,4 +152,8 @@ Haz push a la rama (git push origin feature/nueva-funcionalidad).
 Abre un Pull Request.
 
 ## 📄 Licencia
+<<<<<<< HEAD
 Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
+=======
+Este proyecto está bajo la Licencia MIT. Ver el archivo LICENSE para más detalles.
+>>>>>>> 80790d4 (First Commit)
